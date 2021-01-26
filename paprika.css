@@ -44,3 +44,16 @@ td{
     width: 120px;
     text-align: center;
 }
+
+li{
+    list-style-image: url("Images/chili-pepper-icon.gif");
+    border: 1px solid blue;
+    padding: 5px;
+    background-color: rgb(164, 191, 243);
+    margin: 10px;
+}
+
+a{
+    color: saddlebrown;
+    text-decoration: none;
+}
