@@ -3,6 +3,33 @@ body{
     color: saddlebrown;
 }
 
+
+#fokeret{
+    margin: auto;
+    width: 1000px;
+}
+
+#fejlec{
+    width: 100%;
+    padding: 5px;
+    background-image: url("Images/szines.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#menu{
+    padding: 10px;
+    float: left;
+    width: 250px;
+}
+
+#tartalom{
+    float: right;
+    width: 660px;
+    padding: 30px;
+    padding-top: 10px;
+}
+
 table{
     width: 300px;
     margin: auto;
