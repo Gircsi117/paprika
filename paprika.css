@@ -2,3 +2,17 @@ body{
     background-color: papayawhip;
     color: saddlebrown;
 }
+
+table{
+    width: 300px;
+    margin: auto;
+}
+
+td{
+    border: 1px solid saddlebrown;
+    padding: 5px;
+}
+
+#jobb{
+    
+}
